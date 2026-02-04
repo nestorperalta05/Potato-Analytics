@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "tipo": "camp",
+    "modelo": "MD3",
+    "resultado": "win",
+    "placar": "2-0",
+    "data": "2026-02-02",
+    "team_usuario_id": "FNK",
+    "team_adversario_id": "RPS",
+    "comentario": "",
+    "jogos": [
+      {
+        "numero": 1,
+        "duracao_minutos": "16:47",
+        "kills_aliadas": 23,
+        "kills_inimigas": 12,
+        "jogadores_aliados": [
+          {
+            "player_id": "BK",
+            "campeao": "Aatrox",
+            "kills": 5,
+            "deaths": 0,
+            "assists": 3,
+            "dano_causado": 22445,
+            "dano_recebido": 16785,
+            "ouro_total": 13126,
+            "totalParticipacoes": 8,
+            "pctParticipacao": 34.78,
+            "pctDanoCausado": 28.33,
+            "pctDanoRecebido": 24.57
+          },
+          {
+            "player_id": "RZ",
+            "campeao": "Amumu",
+            "kills": 3,
+            "deaths": 3,
+            "assists": 8,
+            "dano_causado": 5798,
+            "dano_recebido": 10698,
+            "ouro_total": 13363,
+            "totalParticipacoes": 11,
+            "pctParticipacao": 47.83,
+            "pctDanoCausado": 7.32,
+            "pctDanoRecebido": 15.66
+          },
+          {
+            "player_id": "BT",
+            "campeao": "Viktor",
+            "kills": 7,
+            "deaths": 1,
+            "assists": 8,
+            "dano_causado": 23290,
+            "dano_recebido": 5383,
+            "ouro_total": 14556,
+            "totalParticipacoes": 15,
+            "pctParticipacao": 65.22,
+            "pctDanoCausado": 29.41,
+            "pctDanoRecebido": 7.89
+          },
+          {
+            "player_id": "VL",
+            "campeao": "Ezreal",
+            "kills": 6,
+            "deaths": 2,
+            "assists": 9,
+            "dano_causado": 19643,
+            "dano_recebido": 8628,
+            "ouro_total": 13000,
+            "totalParticipacoes": 15,
+            "pctParticipacao": 65.22,
+            "pctDanoCausado": 24.82,
+            "pctDanoRecebido": 12.65
+          },
+          {
+            "player_id": "ML",
+            "campeao": "Bardo",
+            "kills": 2,
+            "deaths": 0,
+            "assists": 15,
+            "dano_causado": 10814,
+            "dano_recebido": 6127,
+            "ouro_total": 10323,
+            "totalParticipacoes": 17,
+            "pctParticipacao": 73.91,
+            "pctDanoCausado": 13.65,
+            "pctDanoRecebido": 8.99
+          }
+        ],
+        "jogadores_inimigos": [
+          {
+            "slot": 1,
+            "campeao": "Urgot",
+            "kills": 2,
+            "deaths": 3,
+            "assists": 0,
+            "dano_causado": 18352,
+            "dano_recebido": 17269,
+            "ouro_total": 11493
+          },
+          {
+            "slot": 2,
+            "campeao": "Olaf",
+            "kills": 0,
+            "deaths": 5,
+            "assists": 3,
+            "dano_causado": 5509,
+            "dano_recebido": 13522,
+            "ouro_total": 10458
+          },
+          {
+            "slot": 3,
+            "campeao": "Lissandra",
+            "kills": 3,
+            "deaths": 3,
+            "assists": 2,
+            "dano_causado": 7100,
+            "dano_recebido": 10109,
+            "ouro_total": 9787
+          },
+          {
+            "slot": 4,
+            "campeao": "Jhin",
+            "kills": 1,
+            "deaths": 5,
+            "assists": 5,
+            "dano_causado": 11059,
+            "dano_recebido": 11050,
+            "ouro_total": 10862
+          },
+          {
+            "slot": 5,
+            "campeao": "Karma",
+            "kills": 0,
+            "deaths": 7,
+            "assists": 5,
+            "dano_causado": 13046,
+            "dano_recebido": 14700,
+            "ouro_total": 8043
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "duracao_minutos": "15:47",
+        "kills_aliadas": 26,
+        "kills_inimigas": 7,
+        "jogadores_aliados": [
+          {
+            "player_id": "BK",
+            "campeao": "Volibear",
+            "kills": 4,
+            "deaths": 1,
+            "assists": 12,
+            "dano_causado": 21996,
+            "dano_recebido": 25047,
+            "ouro_total": 12734,
+            "totalParticipacoes": 16,
+            "pctParticipacao": 17.78,
+            "pctDanoCausado": 24.45,
+            "pctDanoRecebido": 34.85
+          },
+          {
+            "player_id": "RZ",
+            "campeao": "Jarvan IV",
+            "kills": 5,
+            "deaths": 1,
+            "assists": 20,
+            "dano_causado": 11364,
+            "dano_recebido": 6643,
+            "ouro_total": 14600,
+            "totalParticipacoes": 25,
+            "pctParticipacao": 27.78,
+            "pctDanoCausado": 12.63,
+            "pctDanoRecebido": 9.24
+          },
+          {
+            "player_id": "BT",
+            "campeao": "Gwen",
+            "kills": 12,
+            "deaths": 2,
+            "assists": 7,
+            "dano_causado": 34944,
+            "dano_recebido": 18373,
+            "ouro_total": 13612,
+            "totalParticipacoes": 19,
+            "pctParticipacao": 21.11,
+            "pctDanoCausado": 38.84,
+            "pctDanoRecebido": 25.56
+          },
+          {
+            "player_id": "VL",
+            "campeao": "Lucian",
+            "kills": 5,
+            "deaths": 3,
+            "assists": 3,
+            "dano_causado": 13137,
+            "dano_recebido": 13202,
+            "ouro_total": 12436,
+            "totalParticipacoes": 8,
+            "pctParticipacao": 8.89,
+            "pctDanoCausado": 14.61,
+            "pctDanoRecebido": 18.37
+          },
+          {
+            "player_id": "ML",
+            "campeao": "Zilean",
+            "kills": 0,
+            "deaths": 0,
+            "assists": 22,
+            "dano_causado": 8532,
+            "dano_recebido": 8634,
+            "ouro_total": 9686,
+            "totalParticipacoes": 22,
+            "pctParticipacao": 24.44,
+            "pctDanoCausado": 9.49,
+            "pctDanoRecebido": 12.01
+          }
+        ],
+        "jogadores_inimigos": [
+          {
+            "slot": 1,
+            "campeao": "Mordekaiser",
+            "kills": 1,
+            "deaths": 5,
+            "assists": 2,
+            "dano_causado": 25034,
+            "dano_recebido": 21713,
+            "ouro_total": 9791
+          },
+          {
+            "slot": 2,
+            "campeao": "Ambessa",
+            "kills": 0,
+            "deaths": 5,
+            "assists": 4,
+            "dano_causado": 14099,
+            "dano_recebido": 16130,
+            "ouro_total": 11122
+          },
+          {
+            "slot": 3,
+            "campeao": "Jayce",
+            "kills": 4,
+            "deaths": 5,
+            "assists": 0,
+            "dano_causado": 25587,
+            "dano_recebido": 17422,
+            "ouro_total": 10190
+          },
+          {
+            "slot": 4,
+            "campeao": "Varus",
+            "kills": 2,
+            "deaths": 4,
+            "assists": 1,
+            "dano_causado": 12218,
+            "dano_recebido": 8330,
+            "ouro_total": 9940
+          },
+          {
+            "slot": 5,
+            "campeao": "Seraphine",
+            "kills": 0,
+            "deaths": 7,
+            "assists": 3,
+            "dano_causado": 12572,
+            "dano_recebido": 12016,
+            "ouro_total": 8364
+          }
+        ]
+      }
+    ]
+  }
+]
