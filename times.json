@@ -1,0 +1,36 @@
+[
+  {
+    "team_id": "FNK",
+    "nome": "Os Mormons Fanatikos Gaming",
+    "tipo": "proprio",
+    "partidas_jogadas": 1,
+    "aproveitamento_scrim": null,
+    "aproveitamento_camp": 100
+  },
+  {
+    "team_id": "THC",
+    "nome": "Team Hard Counter",
+    "tipo": "adversario",
+    "relevante": true,
+    "media_placar": null,
+    "partidas_contra_scrim": 0,
+    "vitorias_contra_scrim": 0,
+    "winrate_scrim": null,
+    "partidas_contra_camp": 0,
+    "vitorias_contra_camp": 0,
+    "winrate_camp": null
+  },
+  {
+    "team_id": "RPS",
+    "nome": "Os Rapers",
+    "tipo": "adversario",
+    "relevante": false,
+    "media_placar": "4-0",
+    "partidas_contra_scrim": 0,
+    "vitorias_contra_scrim": 0,
+    "winrate_scrim": null,
+    "partidas_contra_camp": 1,
+    "vitorias_contra_camp": 1,
+    "winrate_camp": 100
+  }
+]
